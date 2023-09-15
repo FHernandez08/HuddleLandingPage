@@ -1,0 +1,10 @@
+To-Do List:
+    - Implement the css styles for the :root
+    - Seperate the sections to their respected spots
+    - Design each section
+    - Design the different views (desktop/mobile)
+    - Create the active states
+
+Notes:
+    - The bg-desktop.svg file will be the background image that would be used when creating the website design
+    - The bg-mobile.svg file will be same like the desktop image but designed for the mobile design
